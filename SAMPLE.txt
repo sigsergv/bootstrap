@@ -1,3 +1,5 @@
 This file has been created for demonstration purposes. It is not a part of boostrap repository.
 
 This line was added by second commit.
+
+And this line was added in the third commit.
